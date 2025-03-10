@@ -12,7 +12,7 @@ This is a simple website showcasing my original poetry, created using basic HTML
 
 ---
 
-Check it out live [here](https://your-username.github.io)!
+Check it out live [here](https://nazuverse.github.io/Nazuverse-Archives/#)!
 
 ## 📬 Contact
 Feel free to reach out for feedback or collaborations!
